@@ -6,7 +6,7 @@ Atualmente integro o quadro de alunos no Centro Universitário Fundação Santo 
 
 
 <p align="left">
-     <a href="https://www.linkedin.com/in/lucas-teles-8028401a7/" target="_blank">
+    <a href="https://www.linkedin.com/in/lucas-teles-8028401a7/" target="_blank">
         <img 
             alt="Linkedln" 
             title="Meu pefil do Linkedln" 
@@ -14,11 +14,11 @@ Atualmente integro o quadro de alunos no Centro Universitário Fundação Santo 
             target="_blank"><a
         />
     </a>
-    <a href="">
+    <a href="mailto:lucas.758193@graduacao.fsa.br">
         <img 
-            alt="" 
-            title="" 
-            src=""
+            alt="Gmail" 
+            title="Contato Email " 
+            src="https://img.shields.io/badge/ -Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
     </a> 
     <a href="https://github.com/teleslimateles?tab=repositories">
         <img 
