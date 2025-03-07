@@ -6,11 +6,12 @@ Atualmente integro o quadro de alunos no Centro Universitário Fundação Santo 
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/lucas-teles-8028401a7/">
+     <a href="https://www.linkedin.com/in/lucas-teles-8028401a7/" target="_blank">
         <img 
-            alt="" 
-            title="" 
-            src=""
+            alt="Linkedln" 
+            title="Meu pefil do Linkedln" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank"><a
         />
     </a>
     <a href="">
